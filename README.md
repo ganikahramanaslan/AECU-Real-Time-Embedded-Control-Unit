@@ -41,10 +41,10 @@ AECU is an educational automotive-inspired embedded control unit designed to exp
 - [x] PID controller prototype
 - [x] PWM control prototype
 - [x] CAN communication prototype
-- [ ] Hardware validation
-- [ ] Watchdog integration
-- [ ] Automated testing
-- [ ] Runtime performance analysis
+- [X] Hardware validation
+- [X] Watchdog integration
+- [X] Automated testing
+- [X] Runtime performance analysis
 
 ## Hardware
 
